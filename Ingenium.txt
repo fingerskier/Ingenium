@@ -2,6 +2,42 @@ Ingenium
 
 
 Engineering -
+	The art and process of applying the knowledge of pure sciences to the construction of practical things.
 
 
 Architecture -
+	The design and supervision of the construction of artificial structures.
+
+
+	When discussing software engineering and the development related standards I came across Les Chambers book "Introducing Software Engineering".  It is a wonderful introduction to the subject.  I made notes while reading the book, including an outline of the development process; step #5 was "Follow engineering best practices."  Alright, done deal.
+
+	But wait...what are these mythical "engineering best practices"?  Search around a bit and you will find a plethora of specific practices that specific to a discipline, things that can go wrong if you fail to follow 'them', or vaguery like team makeup and management schemes.  As painful as it is for me to admit the regulatory bodies have it right: what matters is that you have a process and follow it - not so much what's in it.
+
+
+The Process
+	Identify the problem
+
+	Define the success <- this is the test
+
+	Pass the test
+
+	Evaluate
+
+		* and document everything at every step
+
+		** iterate at any time
+
+
+Engineering reprise
+
+
+Architecture reprise
+
+
+Success -
+	The accomplishment of goals.
+
+	Sometimes we mis-evaluate successes - which makes them unrepeatable
+
+	you can't "succeed" without goals
+		but we love to retrocreate goals
