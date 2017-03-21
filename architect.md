@@ -6,4 +6,8 @@
 
 ## The Problem with Specialization
 
-## The Glue
+## The Glue 
+An architect.
+Someone who can break down problems. 
+Someone who can earn on the fly. 
+Someone with good intuition.
